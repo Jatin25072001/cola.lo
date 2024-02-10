@@ -1,0 +1,5 @@
+The error message you received indicates that the remote repository contains commits that you don't have locally. This can happen if changes have been made to the remote repository since you last pulled or cloned it.
+
+To resolve this, you should first pull the changes from the remote repository into your local repository, resolve any conflicts if necessary, and then push your changes.
+
+Here are the steps you can take:
